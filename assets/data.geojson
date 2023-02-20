@@ -220,6 +220,29 @@
                 "suburb": "Dockland",
                 "summary":"Imbue Food & Wine is a cosy restaurant located in Maribyrnong, west of Melbourne CBD. Cooking up Modern Australian cuisine, the chefs aim to showcase fresh Australian produce by blending flavours, textures and colours to make your dining experience memorable."
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.8909692,
+                    -37.8316459,
+                    8.527
+                ]
+            },
+            "id":"10",
+            "properties": {
+                "name": "New feature",
+                "type": "Entertainment",
+                "address": "2 Booker St, Spotswood VIC 3015",
+                "pic": "https://drive.google.com/uc?export=view&id=1gtH_NFf6B_hDD5C6pU9FvvWUsq6N3KRq",
+                "tags": "Spotswood ,Williamstown , Entertainment , Educational ,Museu",
+                "website": "https://museumsvictoria.com.au/scienceworks/",
+                "suburb": "Dockland",
+                "summary":"Imbue Food & Wine is a cosy restaurant located in Maribyrnong, west of Melbourne CBD. Cooking up Modern Australian cuisine, the chefs aim to showcase fresh Australian produce by blending flavours, textures and colours to make your dining experience memorable."
+            }
         }
+        
     ]
 }
